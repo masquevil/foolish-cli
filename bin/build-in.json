@@ -1,0 +1,11 @@
+[{
+  "name": "react",
+  "description": "Official react template with umi + dva",
+  "relations": ["React", "Umi", "Dva", "Redux", "Redux-Saga", "React-Router", "Webpack"],
+  "repository": "masquevil/react-workflow"
+}, {
+  "name": "vue",
+  "description": "Official vue template with vue-state-router",
+  "relations": ["Vue", "vue-state-router", "vue-router", "Webpack"],
+  "repository": "masquevil/vue-workflow"
+}]
